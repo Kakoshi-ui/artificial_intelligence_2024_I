@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.8.23)  4 SEP 2023 12:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.8.23)  4 SEP 2023 20:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -143,47 +143,73 @@ Package caption Info: Standard document class detected.
 \c@caption@flags=\count199
 \c@continuedfloat=\count266
 )
+(C:\Users\axel9\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count267
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count268
+)
 (C:\Users\axel9\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count267
+\l__color_backend_stack_int=\count269
 \l__pdf_internal_box=\box51
 ) (data_processing_report.aux
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+
+
+LaTeX Warning: Label `fig:f1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:f1' multiply defined.
+
+
+LaTeX Warning: Label `fig:f2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:f2' multiply defined.
+
+
+LaTeX Warning: Label `fig:f3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:f3' multiply defined.
+
 )
 \openout1 = `data_processing_report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Info: Redefining \. on input line 15.
-LaTeX Info: Redefining \% on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
 
 (C:\Users\axel9\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count268
+\scratchcounter=\count270
 \scratchdimen=\dimen160
 \scratchbox=\box52
-\nofMPsegments=\count269
-\nofMParguments=\count270
+\nofMPsegments=\count271
+\nofMParguments=\count272
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count271
+\MPscratchCnt=\count273
 \MPscratchDim=\dimen161
-\MPnumerator=\count272
-\makeMPintoPDFobject=\count273
+\MPnumerator=\count274
+\makeMPintoPDFobject=\count275
 \everyMPtoPDFconversion=\toks23
 )
 (C:\Users\axel9\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -232,11 +258,118 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
+<weight_distr.jpg, id=1, 148.75575pt x 148.1535pt>
+File: weight_distr.jpg Graphic file (type jpg)
+<use weight_distr.jpg>
+Package pdftex.def Info: weight_distr.jpg  used on input line 35.
+(pdftex.def)             Requested size: 148.75537pt x 148.15314pt.
 [1
 
 {C:/Users/axel9/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 ! Undefined control sequence.
-l.44 ...a, en Inteligencia Artificial}.(s.f). \url
+l.48 ...n el siguiente repositorio de GitHub: \url
+                                                  {https://github.com/Kakosh...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[2 <./weight_distr.jpg>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 53.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 53.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 53.
+ [3]
+<w_rpm_conf.jpg, id=19, 937.70325pt x 506.49225pt>
+File: w_rpm_conf.jpg Graphic file (type jpg)
+<use w_rpm_conf.jpg>
+Package pdftex.def Info: w_rpm_conf.jpg  used on input line 99.
+(pdftex.def)             Requested size: 468.85048pt x 253.2455pt.
+
+Overfull \hbox (15.88222pt too wide) in paragraph at lines 99--100
+ [][] 
+ []
+
+<zero_cross_x.jpg, id=20, 927.465pt x 504.6855pt>
+File: zero_cross_x.jpg Graphic file (type jpg)
+<use zero_cross_x.jpg>
+Package pdftex.def Info: zero_cross_x.jpg  used on input line 110.
+(pdftex.def)             Requested size: 185.48972pt x 100.9353pt.
+<zero_cross_y.jpg, id=21, 928.6695pt x 507.69675pt>
+File: zero_cross_y.jpg Graphic file (type jpg)
+<use zero_cross_y.jpg>
+Package pdftex.def Info: zero_cross_y.jpg  used on input line 116.
+(pdftex.def)             Requested size: 185.7306pt x 101.53755pt.
+<zero_cross_z.jpg, id=22, 919.63576pt x 501.67426pt>
+File: zero_cross_z.jpg Graphic file (type jpg)
+<use zero_cross_z.jpg>
+Package pdftex.def Info: zero_cross_z.jpg  used on input line 122.
+(pdftex.def)             Requested size: 183.92389pt x 100.33307pt.
+
+Underfull \hbox (badness 2591) in paragraph at lines 109--127
+[][] []
+ []
+
+<fft_x.jpg, id=23, 952.7595pt x 513.71925pt>
+File: fft_x.jpg Graphic file (type jpg)
+<use fft_x.jpg>
+Package pdftex.def Info: fft_x.jpg  used on input line 134.
+(pdftex.def)             Requested size: 190.54852pt x 102.74202pt.
+<fft_y.jpg, id=24, 961.191pt x 520.94624pt>
+File: fft_y.jpg Graphic file (type jpg)
+<use fft_y.jpg>
+Package pdftex.def Info: fft_y.jpg  used on input line 140.
+(pdftex.def)             Requested size: 192.23479pt x 104.1874pt.
+<fft_z.jpg, id=25, 947.33925pt x 519.74174pt>
+File: fft_z.jpg Graphic file (type jpg)
+<use fft_z.jpg>
+Package pdftex.def Info: fft_z.jpg  used on input line 147.
+(pdftex.def)             Requested size: 189.4645pt x 103.9465pt.
+
+Underfull \hbox (badness 2591) in paragraph at lines 133--152
+[][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--154
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4 <./w_rpm_conf.jpg>]
+<original_y_wavelet_x.jpg, id=29, 940.7145pt x 496.85625pt>
+File: original_y_wavelet_x.jpg Graphic file (type jpg)
+<use original_y_wavelet_x.jpg>
+Package pdftex.def Info: original_y_wavelet_x.jpg  used on input line 160.
+(pdftex.def)             Requested size: 423.31761pt x 223.58324pt.
+ [5 <./zero_cross_x.jpg> <./zero_cross_y.jpg> <./zero_cross_z.jpg> <./fft_x.jpg
+> <./fft_y.jpg> <./fft_z.jpg>]
+! Undefined control sequence.
+l.169 ...r}. UCI Machine Learning Repository. \url
+                                                  {https://doi.org/10.24432/...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.173 ..., en Inteligencia Artificial}.(s.f). \url
                                                   {https://virtual.cuautitla...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -245,53 +378,54 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 []\OT1/cmr/m/it/10.95 Transformada Wa-ve-let - acer-vo pa-ra el me-jo-ra-mien-t
 o del apren-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 \OT1/cmr/m/it/10.95 di-za-je de alum-nos de in-ge-nier^^S^^Pa, en In-te-li-gen-
 cia Ar-ti-fi-cial\OT1/cmr/m/n/10.95 .(s.f).
  []
 
-! Undefined control sequence.
-l.50 ...er}. UCI Machine Learning Repository. \url
-                                                  {https://doi.org/10.24432/...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[2] (data_processing_report.aux
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
+[6 <./original_y_wavelet_x.jpg>] (data_processing_report.aux
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
 )
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-11>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 4750 strings out of 475503
- 83826 string characters out of 5761834
- 1928248 words of memory out of 5000000
- 26015 multiletter control sequences out of 15000+600000
- 561141 words of font info for 46 fonts, out of 8000000 for 9000
+ 5031 strings out of 475503
+ 89181 string characters out of 5761834
+ 1930248 words of memory out of 5000000
+ 26286 multiletter control sequences out of 15000+600000
+ 564277 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,5n,65p,1430b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,10n,65p,1886b,494s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/axel9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmbx10.pfb><C:/Users/axel9/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmbx12.pfb><C:/Users/axel9/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmcsc10.pfb><C:/Users/axel9/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/axel9/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/axel9/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on data_processing_report.pdf (2 pages, 103894 bytes).
+ts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/axel9/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/axel9/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/axel9/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/axel9/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users
+/axel9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+<C:/Users/axel9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+ti8.pfb><C:/Users/axel9/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmti9.pfb>
+Output written on data_processing_report.pdf (6 pages, 1094019 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 85 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
